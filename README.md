@@ -21,11 +21,10 @@ Analizar la relación entre desempeño financiero empresarial, empleo regional y
 - `/mnt/data/U_Sabana_Programacion_Taller_3.pdf` (rúbrica). :contentReference[oaicite:10]{index=10}
 
 ## Cómo reproducir
-1. Ejecutar el notebook `taller_final_programacion.ipynb` (asegúrate de descargar manualmente los archivos si alguna URL no funcionó).
+1. Ejecutar el notebook `taller_final_programacion.ipynb` 
 2. Verificar `data/clean` y abrir los CSV en Power BI Desktop.
-3. Seguir las instrucciones en `powerbi/README_powerbi.txt` (medidas DAX + relaciones) para crear el .pbix.
-4. Subir .ipynb, .pbix y README al repositorio y enviar el link en Teams.
+3. Subir .ipynb, .pbix y README al repositorio y enviar el link en Teams.
 
 ## Notas
-- Las decisiones de limpieza están documentadas en Markdown dentro del notebook (justificación y criterios).
+- Las decisiones de limpieza están documentadas en Markdown dentro del notebook
 - Validaciones incluidas (asserts y conteos) para cumplir con la calificación de “Análisis y Limpieza en Python”.
